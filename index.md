@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## David E Bisson
 
 You can use the [editor on GitHub](https://github.com/DavidEBisson/DavidEBisson.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [Film and Television Career](https://www.imdb.com/name/nm3091439/) 
+* [Music Career](soundcloud.com/iamdarthbisson)
+
 
 ### Markdown
 
