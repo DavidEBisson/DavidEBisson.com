@@ -1,12 +1,16 @@
 ## David E Bisson
 
-You can use the [editor on GitHub](https://github.com/DavidEBisson/DavidEBisson.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Relevant Links
 
 * [Film and Television Career](https://www.imdb.com/name/nm3091439/) 
 * [Music Career](soundcloud.com/iamdarthbisson)
+* [Youtube]
+* [TikTok]
+* [Vimeo]
+* [Podcasts]
 
 
-### Markdown
+### Biography
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
