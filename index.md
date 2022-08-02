@@ -1,7 +1,6 @@
 ## David E Bisson
-david.e.bisson@gmail.com
-
-Content producer, Editor, Project manager.
+### Content producer, Editor, Project manager
+### david.e.bisson@gmail.com
 
 Relevant Links
 
