@@ -14,7 +14,9 @@ Relevant Links
 
 ### Biography
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My fascination with Video Production came at a young age, when my friends and I would make 'Movies' using our parents' VHS camcorders. As our skills behind the camera increased, we eventually got our own equipment and continued to make our movies and videos into our 20s. After college we were given the opportunity to film concerts in New York City for DJ Tiesto as well as the QN5 Megashow amongst others.
+
+
 
 ```markdown
 Syntax highlighted code block
