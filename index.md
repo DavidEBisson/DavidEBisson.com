@@ -5,7 +5,7 @@
 Relevant Links
 
 * [Film and Television Career](https://www.imdb.com/name/nm3091439/) 
-* [Music](soundcloud.com/iamdarthbisson)
+* [Music](https://soundcloud.com/iamdarthbisson))
 * [Youtube]
 * [TikTok](https://www.tiktok.com/@iamdavebisson)
 * [Vimeo]
