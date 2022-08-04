@@ -16,7 +16,7 @@ Relevant Links
 
 My fascination with Video Production came at a young age, when my friends and I would make 'Movies' using our parents' VHS camcorders. As our skills behind the camera increased, we eventually got our own equipment and continued to make our movies and videos into our 20s. After college we were given the opportunity to film concerts in New York City for DJ Tiesto as well as the QN5 Megashow amongst others.
 
-
+In college I majored in Media Production with a focus on Film at Quinnipiac University. After graduating in 2007, I immediately set out to put my degree in Media Production to good use. I soon found myself working in the production offices of major film and television productions in New York City. It was there that I was able to put my steadfast work ethic and attention to detail to good use and found myself rising through the ranks to the position of Production Coordinator.
 
 ```markdown
 Syntax highlighted code block
