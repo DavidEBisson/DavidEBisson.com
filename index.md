@@ -5,7 +5,7 @@ permalink: /
 ---
 
 ## David E Bisson
-### Content producer, Editor, Project manager
+### Content Producer, Editor, Project Manager
 ### [david.e.bisson@gmail.com](mailto:david.e.bisson@gmail.com)
 
 Relevant Links
