@@ -1,3 +1,8 @@
+---
+layout: default
+title:  "David E. Bisson"
+permalink: /
+---
 ## David E Bisson
 ### Content producer, Editor, Project manager
 ### david.e.bisson@gmail.com
